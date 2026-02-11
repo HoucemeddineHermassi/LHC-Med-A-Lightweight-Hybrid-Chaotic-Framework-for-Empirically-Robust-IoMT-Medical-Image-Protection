@@ -12,6 +12,8 @@ Implementation of lightweight encryption for medical images in IoMT infrastructu
 - Automated paper material generation
 
 ## Project Structure
+
+```
 enhanced_encryption/
 ├── chaos/              # Chaotic map implementations
 ├── crypto/             # Encryption core components
@@ -60,4 +62,3 @@ All paper materials will be generated in `results/paper_materials/`:
 - Performance comparison tables
 - Security metrics tables
 - Encrypted/decrypted image examples
-# LHC-Med-A-Lightweight-Hybrid-Chaotic-Framework-for-Empirically-Robust-IoMT-Medical-Image-Protection
