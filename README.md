@@ -4,12 +4,12 @@ Implementation of lightweight encryption for medical images in IoMT infrastructu
 
 ## Features
 
-- Hybrid chaotic map system (Skew Tent + Logistic-Sine)
-- Adaptive round selection based on image content
-- Dynamic S-BOX generation using chaotic sequences
-- Bit-level permutation with diffusion
-- Comprehensive security analysis
-- Automated paper material generation
+- ✅ Hybrid chaotic map system (Skew Tent + Logistic-Sine)
+- ✅ Adaptive round selection based on image content
+- ✅ Dynamic S-BOX generation using chaotic sequences
+- ✅ Bit-level permutation with diffusion
+- ✅ Comprehensive security analysis
+- ✅ Automated paper material generation
 
 ## Project Structure
 
