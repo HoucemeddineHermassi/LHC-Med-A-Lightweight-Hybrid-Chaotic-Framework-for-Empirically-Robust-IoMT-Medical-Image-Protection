@@ -4,12 +4,12 @@ Implementation of lightweight encryption for medical images in IoMT infrastructu
 
 ## Features
 
-- ✅ Hybrid chaotic map system (Skew Tent + Logistic-Sine)
-- ✅ Adaptive round selection based on image content
-- ✅ Dynamic S-BOX generation using chaotic sequences
-- ✅ Bit-level permutation with diffusion
-- ✅ Comprehensive security analysis
-- ✅ Automated paper material generation
+- Hybrid chaotic map system (Skew Tent + Logistic-Sine)
+- Adaptive round selection based on image content
+- Dynamic S-BOX generation using chaotic sequences
+- Bit-level permutation with diffusion
+- Comprehensive security analysis
+- Automated paper material generation
 
 ## Project Structure
 
@@ -27,15 +27,12 @@ enhanced_encryption/
 ```
 
 ## Requirements
-
-```
 numpy>=1.24.0
 matplotlib>=3.7.0
 Pillow>=10.0.0
 scipy>=1.10.0
 opencv-python>=4.8.0
 pandas>=2.0.0
-```
 
 ## Usage
 
@@ -55,10 +52,10 @@ python generate_paper_materials.py
 
 ## Output
 
-All paper materials will be generated in `results/paper_materials/`:
 - Correlation plots
 - Histogram analysis
 - Chaos map visualizations
 - Performance comparison tables
 - Security metrics tables
 - Encrypted/decrypted image examples
+
